@@ -6,7 +6,7 @@ Submitted by: Harpreet Singh
 
 Time spent: 5 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://daffy-roasted-pick.glitch.me/)
 
 ## Required Functionality
 
