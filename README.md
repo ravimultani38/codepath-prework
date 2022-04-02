@@ -45,16 +45,16 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+[I've just use W3schools.com for javascript fundamentals, because i wasn't have much knowledge about javascript so i just learned some basic concept of javascript on that website.]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+[For the basic development of the game is not that difficult because the instructions in codepath was very good and easy to understandable. When i go for additional features to add in the game, it was difficult so i just take some hints and search some javascript in w3schools website.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[After this submission, i have question about back-end. I know most of the things in front end development, so now in want to go for back end development.]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[i just added two additional features because i was busy in college misterms. If i was have mpre time in this project i can make this game more interactive with beautiful image buttons and i want to add time lapse for every stage.]
 
 
 
